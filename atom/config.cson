@@ -1,0 +1,67 @@
+"*":
+  "atom-beautify":
+    general:
+      _analyticsUserId: "da2ca543-62a2-4c29-b41d-137c9a44cb16"
+    js:
+      disabled: true
+  "atom-material-ui":
+    fonts:
+      fontSize: 17
+    tabs:
+      compactTabs: true
+    ui:
+      panelShadows: true
+  core:
+    openEmptyEditorOnStart: false
+    telemetryConsent: "limited"
+    themes: [
+      "atom-material-ui"
+      "atom-material-syntax"
+    ]
+  editor:
+    fontSize: 15
+    invisibles: {}
+    lineHeight: 2
+    scrollPastEnd: true
+    showIndentGuide: true
+    softWrap: true
+  emmet: {}
+  "exception-reporting":
+    userId: "9fe2b690-fddc-6ec1-a2c5-ed1e43ab16b6"
+  "keyboard-localization":
+    useKeyboardLayout: "it_IT"
+  latex: {}
+  latextools:
+    builderSettings: {}
+    linux: {}
+  linter: {}
+  "linter-jshint":
+    jsonExecutablePath: "/usr/local/bin/jsonlint"
+  "linter-ui-default": {}
+  "markdown-preview":
+    useGitHubStyle: true
+  "markdown-themeable-pdf":
+    openPdfInAtomWorkspace: false
+  "prettier-atom":
+    formatOnSaveOptions:
+      enabled: true
+    useEslint: true
+  "spell-check":
+    grammars: [
+      "source.asciidoc"
+      "source.gfm"
+      "text.git-commit"
+      "text.plain"
+      "text.plain.null-grammar"
+      "text.tex.latex"
+    ]
+    locales: [
+      "it-IT"
+      "en-US"
+    ]
+  "todo-show":
+    openListInDirection: "down"
+  "tool-bar":
+    position: "Left"
+  welcome:
+    showOnStartup: false
